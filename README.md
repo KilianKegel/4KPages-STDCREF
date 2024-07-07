@@ -1,5 +1,8 @@
 # 4KPages-STDCREF
 P.J.Plauger's "Standard C - A Reference"
+
+[PDF](https://1drv.ms/b/c/ff234b6fa870c030/EeuTBKCXw-lEnr8X5COGbZ4B_Y2ZAfH64ni-mTqQ4zFYmw)
+
 ![](https://github.com/KilianKegel/4KPages-STDCREF/blob/main/images/STDCREF_000.jpg) 
 ![](https://github.com/KilianKegel/4KPages-STDCREF/blob/main/images/STDCREF_001.jpg) 
 ![](https://github.com/KilianKegel/4KPages-STDCREF/blob/main/images/STDCREF_002.jpg) 
